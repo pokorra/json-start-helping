@@ -1,0 +1,71 @@
+{
+   "fundations":
+   [ 
+      { 
+         "id": 0,
+         "name":"Fundacjom",
+         "desc":"Pomagamy wielu fundacjom, co daje nam realny wpływ na życie potrzebujących osób. Pomagamy wielu fundacjom, co daje nam realny wpływ na życie potrzebujących osób.",
+         "items":[ 
+            { 
+               "header":"Fundacja 1",
+               "subheader":"najważniejsze jest dla nas dobro",
+               "desc":"Fundacja powołana w 2009 roku działa na terenie województwa łódzkiego"
+            },
+            { 
+               "header":"Fundacja Psy",
+               "subheader":"pieski otrą wszystkie łezki",
+               "desc":"Cursus risus at ultrices mi tempus imperdiet nulla. "
+            },
+            { 
+               "header":"Fundacje wakacje",
+               "subheader":"Porttitor eget dolor",
+               "desc":"morbi non arcu risus quis varius. Facilisis gravida neque convallis"
+            }
+         ]
+      },
+      { 
+         "id": 1,
+         "name":"Organizacjom pozarządowym",
+         "desc":"Współpraca z ngosami to dla nas szczególnie ważna gałąź działalności. To dzięki organizacjom możemy spać bezpiecznie pamiętając, że są ludzie którzy z własnej woli tworzą alternatywne organy kontrolne.",
+         "items":[ 
+            { 
+               "header":"Sit amet",
+               "subheader":"facilisis magna etiam tempor",
+               "desc":"Lacinia quis vel eros donec ac odio tempor. Odio aenean sed adipiscing"
+            },
+            { 
+               "header":"Tristique risus",
+               "subheader":"nec feugiat in fermentum",
+               "desc":"posuere urna nec. Nulla malesuada pellentesque elit eget"
+            },
+            { 
+               "header":"Lacinia quis",
+               "subheader":"vel eros donec ac odio tempor",
+               "desc":"Nulla malesuada pellentesque elit eget"
+            }
+         ]
+      },
+      { 
+         "id": 2,
+      "name":"Lokalnym zbiórkom",
+      "desc":"Okazjonalnie wspieramy także lokalne zbiórki. Bardzo ważne jest dla nas kształtowanie sieci kontaktów sąsiedzkich i tworzenie lokalnych społeczności.",
+      "items":[ 
+         { 
+            "header":"Excepteur sint",
+            "subheader":"Lorem ipsum dolor sit amet",
+            "desc":"consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+         },
+         { 
+            "header":"At tempor ",
+            "subheader":"commodo ullamcorper a",
+            "desc":"Ullamcorper malesuada proin libero nunc consequat interdum"
+         },
+         { 
+            "header":"Morbi non arcu",
+            "subheader":"risus quis varius quam",
+            "desc":"Molestie ac feugiat sed lectus vestibulum mattis"
+         }
+      ]
+   }
+   ]
+}
